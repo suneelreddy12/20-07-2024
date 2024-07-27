@@ -7,7 +7,7 @@ import DataScience from "./pages/DataScience";
 import CyberSecurity from "./pages/CyberSecurity";
 import Career from "./pages/Career";
 import NotFound from "./pages/NotFound";
-import "./App.css"; // Assuming you have some global styles
+import "./App.css";
 import AllCourses from "./pages/AllCourses";
 import Navbar from "./Components/Navbar";
 
